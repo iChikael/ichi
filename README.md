@@ -1,6 +1,10 @@
 
 
+<!DOCTYPE html>
 <html>
+    <head>
+        <title>TRUYENCV</title>
+    </head>
 <body>
 <h1>Hello World</h1>
 <p>Đại Tần tập võ nhà nhà cường, Nam Tường võ quán ở Tùng Giang. Muốn tập võ, đến Nam Tường, miễn phí thử học một tháng, thử học không thu bất luận cái gì phí dụng, học tập vừa lòng lại giao học phí, học sẽ không miễn phí trọng học……
