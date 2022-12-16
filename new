@@ -1,0 +1,83 @@
+<html><head>
+<title>LS EW254 by Evelyn (@ev_ynw)</title>
+<!-- Credits: Original code by Dacal & Junesiphone. Modified by Evelyn. -->
+
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" href="Style.css" type="text/css" media="screen"/>
+<script type="text/javascript" charset="utf-8" src="Config.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/jquery.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/main.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/lang.js"></script>
+</head>
+
+<body onload="init()">
+
+<div id="Widget">
+<div id="Cal">
+  <a id="date"></a>.<a id="month"></a> <a id="year"></a><a id="weekday"></a>
+</div>
+
+<div id="StandWithHKWrap">
+<div id="StandWithHK">
+  <a id="hashtag">#</a><a id="yourText"></a><a id="period">.</a>
+</div>
+</div>
+
+<div id="Para">
+    Thời tiết lúc này tại <a id="city">Your City</a> là <a id="desc">wthr desc</a> với nhiệt độ <a id="temp">??&deg;</a>. Bạn đang còn <a id="LevelDisplay">__</a> pin để sử dụng
+</div>
+
+<div id="Clock">
+    <a id="hour"></a>:<a id="minute"></a><a id="ampm" style="display:none;"></a>
+</div>
+<div id="L"></div>
+<div id="R"></div>
+
+</div>
+
+<script type="text/javascript">
+var sheet = document.createElement('style')
+sheet.innerHTML = "#R{background-color:"+highColor+";} #weekday,#hashtag,#period{color:"+highColor+";}";
+document.body.appendChild(sheet);
+</script>
+
+<script type="text/javascript">
+document.getElementById('yourText').innerHTML = Motto;
+
+function mainUpdate(type){
+    if(type == "weather"){
+      document.getElementById('temp').innerHTML = weather.temperature + "&deg;";
+      document.getElementById('desc').innerHTML = weatherdesc[weather.conditionCode];
+      document.getElementById('city').innerHTML = weather.city;
+    }
+    if(type == "battery"){
+      document.getElementById('LevelDisplay').innerHTML = batteryPercent + "%";
+    }
+}
+</script>
+
+<script>
+(function(){
+    'use strict';
+    if (window.innerWidth === 320) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=0.85, maximum-scale=0.85, user-scalable=0');
+    } else if (window.innerWidth === 414) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.104, maximum-scale=1.104, user-scalable=0');
+    } else if (window.innerWidth === 425) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.133, maximum-scale=1.133, user-scalable=0');
+    } else if (window.innerWidth === 432) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.152, maximum-scale=1.152, user-scalable=0');
+    }
+}());
+(function(){
+    'use strict';
+    if ((window.innerHeight / window.innerWidth) > 2) {
+        document.getElementById("Widget").style.top = "50px";
+    } else {
+        document.getElementById("Widget").style.top = "0px";
+    }
+}());
+</script>
+</body></html>
