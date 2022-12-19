@@ -6,13 +6,15 @@
 <a href="http://truyencv.vn" target="_blank">TRUYENCV</a>
 <img src="https://media2.truyencv.vn/thumbnails/content/da/5f/da5f87ba-9184-4ac0-a96d-e37227abb809/53k85d.jpg__160x240_q85_crop_height-240_subsampling-2_upscale_width-160.jpg"
 alt="TRUYENCV" style="height:240px">
+<ul style="list-style-type:square">
+<li id="C1">Trò Chơi Cứu Thế Của Ta Thành Sự Thật</li>
+<li id="C2">No Thánh Thuận Dây Lưới Đánh Người Thường Ngày</li>
+<li>Nhân Đạo Đại Thánh</li>
+<li>Đế Bá</li>
+<li>Trùng Sinh Phi Dương Niên Đại</li>
+<li>Quốc Vương</li>
+</ul>
 
-<h2 id="C1">Trò Chơi Cứu Thế Của Ta Thành Sự Thật</h2>
-<h3 id="C2">No Thánh Thuận Dây Lưới Đánh Người Thường Ngày</h3>
-<h4>Nhân Đạo Đại Thánh</h4>
-<h5>Đế Bá</h5>
-<h6>Trùng Sinh Phi Dương Niên Đại</h6>
-<h7>Quốc Vương</h7>
 
 <hr>
 <p>TruyenCV là trang web đọc truyện convert online miễn phí với hàng vạn đầu truyện convert hay nhất từ trước đến nay, giúp bạn hóa thân thành nhân vật chính và phiêu lưu trong thế giới truyện tiểu thuyết đầy màu sắc. Xuyên không, trọng sinh, nắm giữ hệ thống trong tay, từng bước đi lên, xây dựng thế lực, trang bức, kiêu ngạo, lãnh cảm, đa tình, lãng mạn, khắc cốt ghi tâm,... tất cả những điều này đều hội tụ đủ trong những bộ truyện convert hay nhất tại TruyenCV.<br>
