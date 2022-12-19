@@ -131,9 +131,9 @@ Nhìn quanh dưới bốn phía, hiện tại cũng chỉ là buổi sáng tám 
 
 Có thể tới đây, tất cả đều là nhị giai Thế Giới Chủ, thế nhưng từ Tô Bạch kỳ tích xuất hiện sau đó, không ít nhất giai Thế Giới Chủ cũng sẽ đến bên này đi dạo, thế nhưng về phần bọn hắn có dám tiếp hay không nhiệm vụ, coi như là nhận nhiệm vụ, có có thể thông qua hay không, liền lại là một chuyện khác.
 
-Theo nữ giám đốc đi vào cao ốc, Tô Bạch phát hiện cái này công hội nội bộ lắp đặt thiết bị có biến hóa, vẫn là đèn treo dùng là phát quang bảo thạch, sàn nhà d
+Theo nữ giám đốc đi vào cao ốc, Tô Bạch phát hiện cái này công hội nội bộ lắp đặt thiết bị có biến hóa, vẫn là đèn treo dùng là phát quang bảo thạch, sàn nhà <br>
 
-<a href="http://truyencv.vn" target="_blank">TRUYENCV</a>
+<a href="http://truyencv.vn" target="_blank">TRUYENCV</a> <br>
 
 TruyenCV là nơi đọc truyện tiểu thuyết online miễn phí hàng đầu hiện nay. Giao diện đơn giản, tinh gọn, tải chương nhanh, tiêu tốn ít dung lượng, tối ưu trải nghiệm đọc, đánh dấu chương ngay cả khi bạn chưa đăng nhập,... là những đặc điểm nổi bật nhất của TruyenCV. Hãy đọc truyện convert tại TruyenCV để cảm nhận trải nghiệm đọc truyện tuyệt vời nhé!</p>
 
