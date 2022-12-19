@@ -4,8 +4,11 @@
 <body>
 <h1>TRUYENCV</h1>
 <a href="http://truyencv.vn" target="_blank">TRUYENCV</a>
+<img src="https://media2.truyencv.vn/thumbnails/content/da/5f/da5f87ba-9184-4ac0-a96d-e37227abb809/53k85d.jpg__160x240_q85_crop_height-240_subsampling-2_upscale_width-160.jpg"
+alt="TRUYENCV" style="height:240px">
+
 <h2 id="C1">Trò Chơi Cứu Thế Của Ta Thành Sự Thật</h2>
-<h3 id="C2">Nho Thánh Thuận Dây Lưới Đánh Người Thường Ngày</h3>
+<h3 id="C2">No Thánh Thuận Dây Lưới Đánh Người Thường Ngày</h3>
 <h4>Nhân Đạo Đại Thánh</h4>
 <h5>Đế Bá</h5>
 <h6>Trùng Sinh Phi Dương Niên Đại</h6>
