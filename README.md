@@ -3,7 +3,7 @@
 <html>
 <body>
 <h1>TRUYENCV</h1>
-<a href="http://truyencv.vn" target="_blank">TRUYENCV</a>
+
 <img src="https://media2.truyencv.vn/thumbnails/content/da/5f/da5f87ba-9184-4ac0-a96d-e37227abb809/53k85d.jpg__160x240_q85_crop_height-240_subsampling-2_upscale_width-160.jpg"
 alt="TRUYENCV" style="height:240px">
 <ul style="list-style-type:square">
@@ -17,7 +17,7 @@ alt="TRUYENCV" style="height:240px">
 
 
 <hr>
-<p>TruyenCV là trang web đọc truyện convert online miễn phí với hàng vạn đầu truyện convert hay nhất từ trước đến nay, giúp bạn hóa thân thành nhân vật chính và phiêu lưu trong thế giới truyện tiểu thuyết đầy màu sắc. Xuyên không, trọng sinh, nắm giữ hệ thống trong tay, từng bước đi lên, xây dựng thế lực, trang bức, kiêu ngạo, lãnh cảm, đa tình, lãng mạn, khắc cốt ghi tâm,... tất cả những điều này đều hội tụ đủ trong những bộ truyện convert hay nhất tại TruyenCV.<br>
+<p>TruyenCV là trang web đọc truyện convert online miễn phí với hàng vạn đầu truyện     convert hay nhất từ trước đến nay, giúp bạn hóa thân thành nhân vật chính và phiêu lưu trong thế giới truyện tiểu thuyết đầy màu sắc. Xuyên không, trọng sinh, nắm giữ hệ thống trong tay, từng bước đi lên, xây dựng thế lực, trang bức, kiêu ngạo, lãnh cảm, đa tình, lãng mạn, khắc cốt ghi tâm,... tất cả những điều này đều hội tụ đủ trong những bộ truyện convert hay nhất tại TruyenCV.<br>
 
 Truyện Convert (hay còn được gọi tắt với một số cái tên như truyện cv, truyệncv, truyen cv, truyencv) là truyện được chuyển ngữ từ nước ngoài sang tiếng Việt (vietphrase), có chỉnh sửa, giữ nguyên văn phong gốc của tác giả hoặc biên tập thô để câu văn dễ đọc hơn. Thông thường truyện convert sẽ lột tả được cách hành văn của tác giả gốc, những cách nói ẩn dụ, ví von trong câu văn đôi lúc sẽ khiến bạn bật cười vì sự mới lạ, tạo cảm giác tò mò và sự liên tưởng cao.<br>
 Sinh cơ cùng tử khí lẫn nhau giao hòa vào nhau, khổng lồ lực lượng cùng mang theo liên tục không ngừng có Sinh Chi Lực trùng kích, ở Tô Bạch trong biển ý thức tạo thành hai cái Cự Long, nhất Hắc nhất Bạch, một cái đại biểu cho sinh, một cái đại biểu cho chết.<br>
