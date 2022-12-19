@@ -14,7 +14,10 @@
 Truyện Convert (hay còn được gọi tắt với một số cái tên như truyện cv, truyệncv, truyen cv, truyencv) là truyện được chuyển ngữ từ nước ngoài sang tiếng Việt (vietphrase), có chỉnh sửa, giữ nguyên văn phong gốc của tác giả hoặc biên tập thô để câu văn dễ đọc hơn. Thông thường truyện convert sẽ lột tả được cách hành văn của tác giả gốc, những cách nói ẩn dụ, ví von trong câu văn đôi lúc sẽ khiến bạn bật cười vì sự mới lạ, tạo cảm giác tò mò và sự liên tưởng cao.
 
 <a href="http://truyencv.vn" target="_blank">TRUYENCV</a>
-
+<a href="htto;//truyencv.vn" target="_blank">
+  <img src="https://m.truyencv.vn/" 
+  style="border:0;">
+</a>
 
 
 fsebfhejfvhefvhfvf
