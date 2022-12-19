@@ -12,7 +12,6 @@ alt="TRUYENCV" style="height:240px">
 <li><a href="https://m.truyencv.vn/truyen/nhan-dao-dai-thanh/" target="_blank">Nhân Đạo Đại Thánh</a></li>
 <li><a href="https://m.truyencv.vn/truyen/de-ba/" target="_blank">Đế Bá</a></li>
 <li><a href="https://m.truyencv.vn/truyen/trung-sinh-phi-duong-nien-dai/" target="_blank">Trùng Sinh Phi Dương Niên Đại</a></li>
-<li>Quốc Vương</li>
 </ul>
 
 
