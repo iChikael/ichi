@@ -42,102 +42,11 @@ Thần Thụ quyền trượng cải tạo cũng từ từ hoàn thành, Sinh T�
 
 Tô Bạch nhìn lấy trong đó miêu tả, một đôi mắt nhất thời liền sáng lên, cái này Âm Dương Sinh Tử Đồ, đại thành sau đó nhưng là Chân Thần tay không có! Một ý niệm đoạt nhân sinh máy móc!<br>
 
-Đây chính là thật đả thật đề thăng năng lực của mình!
-
-Muốn là năng lực của mình đạt được nhảy vọt tăng lên, phía sau năng lực tự vệ cũng sẽ biến đến càng mạnh.
-
-Nếu như ở gặp mặt Thần Nữ phía trước, chính mình cũng đã lĩnh ngộ Sinh Tử Âm Dương Đồ, muốn thắng nàng nắm chặt cũng sẽ càng lớn, thậm chí cũng không cần dùng ăn trộm gà loại này không thế nào hào quang phương pháp.
-
-Mặc dù bây giờ đã cầm rồi toàn quốc thi đại học ta Quán Quân, thế nhưng Tô Bạch trong lòng rõ ràng, mình có thể thắng cũng chỉ là bởi vì thủ xảo. Mặc dù nói, thắng chính là thắng, trên chiến trường không chỉ là hoàn toàn thực lực so đấu, cũng có chiến thuật cùng sách lược, thậm chí là rắp tâm ở trên tỷ đấu, thế nhưng thành tựu một người nam nhân, ai không muốn có thể lấy thực lực chân chính đánh thắng ?
-
-Tô Bạch trong lòng thậm chí đều tính toán, nếu là có cơ hội, nhất định phải chân chân chính chính cùng Thần Nữ tỷ thí với một hồi.
-
-« Thần Thụ quyền trượng đã thành công luyện hóa, phẩm chất vì Siêu Thần khí! »
-
-Theo Âm Dương Sinh Tử Đồ khắc vào Thần Thụ quyền trượng sau đó, một đạo gợi ý cũng xông ra. Siêu Thần khí!
-
-Tô Bạch trong đầu một trận xao động, Siêu Thần khí!
-
-Ở phía sau trong chiến đấu, càng là có thể trở thành một cái cường đại đòn sát thủ!
-
-Bất quá, hiện tại Tô Bạch vẫn là vội vã không chấm đất muốn thử một chút Âm Dương Sinh Tử Đồ năng lực.
-
-Hắn hướng về phía một viên hạt giống rót vào sinh cơ, bất quá là trong nháy mắt, viên kia vốn là đều đã muốn chết hạt giống, trong nháy mắt nảy mầm, sinh trưởng, dần dần sinh trưởng thành một viên đại thụ che trời, tản ra sinh cơ bừng bừng.
-
-Lại vừa khua múa trong tay Thần Thụ quyền trượng, cây kia bắt đầu chậm rãi sinh bệnh, lá rụng, héo rũ.
-
-Làm Tô Bạch muốn mở rộng phạm vi thi triển, lại phát hiện, có thể sử dụng phạm vi hữu hạn, đồng thời có thể khống chế năng lượng cao thấp cũng có hạn chế. Tựa hồ là bởi vì lấy Hỗn Độn Thanh Liên còn có Địa Thư, Thiên Địa Thai Màng phụ trợ, muốn dành cho sinh cơ sẽ trở nên càng đơn giản hơn.
-
-Thế nhưng đối với tử khí thao túng, thì thoáng hiện ra yếu đi vài phần.
-
-Tô Bạch còn không có quên, trên tay mình còn có từ Triệu Minh nơi đó thắng được một tấm « Saiyan Ma Viên thẻ », phát giác ở Hỏa Sơn bạo phát dưới bối cảnh, đầu kia Bạo Ngược Ma Viên ánh mắt càng đáng sợ, dường như có thể xuyên thấu qua tạp diện, nhìn thẳng đến nhân loại.
-
-Những thứ này Bạo Ngược Ma Viên thập phần cường đại, thế nhưng trong truyền thuyết chư thiên vạn giới có một loại Viên Hầu, trời sinh tính ô uế bất kham, mà Bạo Ngược Ma Viên lại là bọn họ họ hàng gần.
-
-Thậm chí là càng bạo ngược diễn biến thể. . .
-
-Tô Bạch đại đan độc ở Thiên Nguyên Giới bên trong mở ra tới một cái Tiểu Vị Diện, lấy Bạo Ngược Ma Viên thích hoàn cảnh làm chủ, đem bỏ vào.
-
-Một chi cường đại Saiyan Ma Viên chủng tộc tại vị diện bên trong sinh ra, bên ngoài lĩnh chủ chính là Bạo Ngược Ma Viên.
-
-« Saiyan Ma Viên: Truyền Thuyết tiến hóa, Ma Viên cùng Hắc Long thần hai cỗ cường đại lực lượng kết hợp, Đại Thánh ngự Long Tại Thiên, Yêu Tà không chỗ có thể trốn, thực lực cường đại không gì sánh được, là Truyền Thuyết Thôn Thiên thần tốt hợp tác! »
-
-« tên gọi: Bạo Ngược Ma Viên »
-
-« chủng tộc: Saiyan Ma Viên « Truyền Thuyết cấp bậc huyết mạch » »
-
-« đẳng cấp: Thánh giai cao cấp « có thể phát triển » »
-
-« kỹ năng: Ma Viên tỏa hồn ấn, mỗi lần xuất thủ, đề thăng tự thân thương tổn cùng tỷ số trúng mục tiêu mỗi cái 40%, cũng làm đối thủ biến dị, không cách nào khôi phục lượng máu. »
-
-Lần đầu chịu đến vết thương trí mệnh lúc, khôi phục đầy máu, cũng biến thân thành Đọa Thiên Minh Ngục Long.
-
-« mỗi lần tiến công, đều muốn đối với đối thủ tạo thành áp chế, cũng khiến cho không cách nào hồi huyết cùng không cách nào biến thân. »
-
-« kỹ năng: Ngự Long Minh Ngục Vạn Lôi Lạc, không nhìn đối thủ 50% phòng ngự, đồng thời hấp thu địch quân thủ lĩnh sáu mươi phần trăm huyết khí. »
-
-« kỹ năng: Ma Viên Ngộ Không Truyền Thuyết kỹ năng, toàn diện đề thăng 20%, siêu giết không nhìn đối thủ sở hữu phòng ngự » năng lực của người này xem như là hết sức cường hãn, điển hình vật lý phương diện cường công giả.
-
-Nhưng khi nhìn Bạo Ngược Ma Viên dáng dấp, Tô Bạch hơi có chút trầm mặc. Quả nhiên, thực lực và dung nhan trị không thể đều chiếm được.
-
-Những thứ kia Ma Viên mới giáng sinh đại lục, thiên tính bên trong dâm đãng liền để cho bọn họ không kịp chờ đợi sinh sôi, còn lại hình ảnh Tô Bạch cảm thấy có chút không mắt nhìn, ý thức liền từ Thiên Nguyên Giới bên trong lui ra.
-
-. . .
-
-Hiện tại toàn bộ đều đã chuẩn bị còn tiếp.
-
-Bước tiếp theo, Tô Bạch dự định đem thế giới thăng giai tinh lọc nhiệm vụ cho làm.
-
-Tô Bạch hiện nay ở Thiên Nguyên Giới mở ra Thời Gian Gia Tốc, làm cho đám người kia có thể cấp tốc phát triển. Nhìn xuống bảo trì ở 201,000 Sáng Thế giá trị, Tô Bạch cầm lên ba lô phía sau liền ra cửa.
-
-Địa phương hắn muốn đi, là Sáng Thế công hội. Sáng Thế công hội cao ốc nằm ở Quảng Thành phồn hoa nhất trung tâm quảng trường.
-
-Ở nơi này một mảnh khu, là hoàn toàn xứng đáng cao cấp khu, một dạng người thường sẽ rất ít ở bên cạnh tới, lấy Thế Giới Chủ cùng mỗi cái Đại Tập Đoàn thế lực thì tại nơi đây thật sâu cắm rễ.
-
-Còn như người thường, coi như là tới nơi đây, đánh bao nhiêu tốc độ cũng chỉ là trở thành trong đó nhân viên phục vụ. Sáng Thế công hội cao ốc có chừng 100 tầng!
-
-Cả lầu bên ngoài cơ thể diện phô thiết còn giống thủy tinh một dạng đồ đạc, dưới ánh mặt trời hết sức chói mắt, chước chước bên ngoài hoa. Có thể chính là nhìn như vậy đứng lên hoa lệ vừa giòn yếu đồ đạc, có thể ngăn trở đạn công kích.
-
-Dù sao nơi này đều cũng có dị năng Thế Giới Chủ các loại người, nếu như vật kiến trúc không làm được rắn chắc một điểm, dễ dàng bị những thứ kia mới thức tỉnh, còn không có biện pháp tốt lắm khống chế chính mình lực lượng tân nhân làm hỏng.
-
-Tuy là, giống như tay mơ như vậy ở chỗ này rất ít.
-
-Bên ngoài tiếp đãi mấy vị đẹp người nữ phục vụ, da trắng mạo mỹ, từng cái từng cái toàn bộ đều là chân dài, trước lồi sau vểnh, nhìn lấy cũng rất đỉnh khen.
-
-Không ít người ánh mắt cũng sẽ ở này đạo phong cảnh xinh đẹp online dừng lại nhiều vài giây.
-
-"Chào mừng ngài quang lâm, xin hỏi ngài cần cái gì phục vụ ?"
-
-Hiện tại tên Tô Bạch đã vang dội toàn bộ Quảng Thành, hắn bất quá là mới vừa đến rồi trước cửa, liền có người đưa hắn nhận ra.
-
-Tô Bạch mới xuống xe, thì có nhất vị diện dung dáng đẹp, một đầu kim sắc đại ba lãng tóc dài, người xuyên áo sơ mi trắng, công tác quần cụt khinh thục nữ cười tiếp đãi.
-
-Nhìn quanh dưới bốn phía, hiện tại cũng chỉ là buổi sáng tám chín điểm, cái này sáng sớm, người tới còn không ít. Hầu như đều là xã hội nhân sĩ, khí thế bất phàm.
-
-Có thể tới đây, tất cả đều là nhị giai Thế Giới Chủ, thế nhưng từ Tô Bạch kỳ tích xuất hiện sau đó, không ít nhất giai Thế Giới Chủ cũng sẽ đến bên này đi dạo, thế nhưng về phần bọn hắn có dám tiếp hay không nhiệm vụ, coi như là nhận nhiệm vụ, có có thể thông qua hay không, liền lại là một chuyện khác.
-
-Theo nữ giám đốc đi vào cao ốc, Tô Bạch phát hiện cái này công hội nội bộ lắp đặt thiết bị có biến hóa, vẫn là đèn treo dùng là phát quang bảo thạch, sàn nhà <br>
-
+ <br>
+ <br>
+ <br>
+ <br>
+<br>
 <a href="http://truyencv.vn" target="_blank">TRUYENCV</a> <br>
 
 TruyenCV là nơi đọc truyện tiểu thuyết online miễn phí hàng đầu hiện nay. Giao diện đơn giản, tinh gọn, tải chương nhanh, tiêu tốn ít dung lượng, tối ưu trải nghiệm đọc, đánh dấu chương ngay cả khi bạn chưa đăng nhập,... là những đặc điểm nổi bật nhất của TruyenCV. Hãy đọc truyện convert tại TruyenCV để cảm nhận trải nghiệm đọc truyện tuyệt vời nhé!</p>
