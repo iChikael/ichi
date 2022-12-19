@@ -7,11 +7,11 @@
 <img src="https://media2.truyencv.vn/thumbnails/content/da/5f/da5f87ba-9184-4ac0-a96d-e37227abb809/53k85d.jpg__160x240_q85_crop_height-240_subsampling-2_upscale_width-160.jpg"
 alt="TRUYENCV" style="height:240px">
 <ul style="list-style-type:square">
-<li id="C1">Trò Chơi Cứu Thế Của Ta Thành Sự Thật</li>
-<li id="C2">No Thánh Thuận Dây Lưới Đánh Người Thường Ngày</li>
-<li>Nhân Đạo Đại Thánh</li>
-<li>Đế Bá</li>
-<li>Trùng Sinh Phi Dương Niên Đại</li>
+<li id="C1"><a href="https://m.truyencv.vn/truyen/tro-choi-cuu-the-cua-ta-thanh-su-that/" target="_blank">Trò Chơi Cứu Thế Của Ta Thành Sự Thật</a></li>
+<li id="C2"><a href="https://m.truyencv.vn/truyen/nho-thanh-thuan-day-luoi-danh-nguoi-thuong-ngay/" target="_blank">No Thánh Thuận Dây Lưới Đánh Người Thường Ngày</a></li>
+<li><a href="https://m.truyencv.vn/truyen/nhan-dao-dai-thanh/" target="_blank">Nhân Đạo Đại Thánh</a></li>
+<li><a href="https://m.truyencv.vn/truyen/de-ba/" target="_blank">Đế Bá</a></li>
+<li><a href="https://m.truyencv.vn/truyen/trung-sinh-phi-duong-nien-dai/" target="_blank">Trùng Sinh Phi Dương Niên Đại</a></li>
 <li>Quốc Vương</li>
 </ul>
 
